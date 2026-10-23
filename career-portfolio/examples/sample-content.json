@@ -1,0 +1,193 @@
+{
+  "meta": {
+    "title": "Maya Fernandes | Customer Success Leader",
+    "description": "Maya Fernandes: customer success leader, onboarding architect and data-minded operator with 11 years in B2B SaaS."
+  },
+  "person": {
+    "firstName": "Maya",
+    "lastName": "Fernandes",
+    "headline": "Customer Success Leader",
+    "location": "Pune, India",
+    "photoPosition": "50% 35%"
+  },
+  "contact": {
+    "email": "maya.fernandes@example.com",
+    "phone": "",
+    "linkedin": "https://www.linkedin.com/in/example-maya"
+  },
+  "hero": {
+    "pill": "Customer success leader, Pune",
+    "typedLead": "I bring",
+    "roles": [
+      "customer success leadership",
+      "onboarding design",
+      "renewals and expansion",
+      "data-driven operations",
+      "team building and coaching"
+    ],
+    "intro": "Eleven years in B2B SaaS, from answering support tickets to leading a 30-person customer success organisation. I design onboarding that sticks, build teams that own the customer outcome, and use data to see churn before it happens.",
+    "badges": [
+      { "icon": "users", "text": "30-person CS org" },
+      { "icon": "trending", "text": "118% net retention" },
+      { "icon": "rocket", "text": "Onboarding architect" }
+    ]
+  },
+  "stats": [
+    { "icon": "clock", "value": 11, "suffix": "+", "label": "Years in B2B SaaS" },
+    { "icon": "trending", "value": 118, "suffix": "%", "label": "Net revenue retention, FY24" },
+    { "icon": "users", "title": "Team builder", "label": "Grew CS from 4 to 30 people" },
+    { "icon": "rocket", "title": "Onboarding architect", "label": "Cut time-to-value from 60 to 21 days" },
+    { "icon": "sliders", "title": "Data-minded operator", "label": "Health scores that predict churn" }
+  ],
+  "leadership": {
+    "navLabel": "Approach",
+    "kicker": "How I work",
+    "headline": "The best retention strategy is a [[customer who succeeds early.]] I build teams and processes around that one idea.",
+    "lede": "Support agent, onboarding specialist, CSM, team lead and head of CS. These principles have carried through every role.",
+    "gauge": { "value": 94, "suffix": "%", "label": "Customer satisfaction, held while scaling" },
+    "pillars": [
+      { "icon": "rocket", "title": "Early value", "text": "If a customer hasn't seen value in 30 days, nothing else we do matters much." },
+      { "icon": "sliders", "title": "Signals over hunches", "text": "Health scores, usage data and renewal risk reviewed every week, not every quarter." },
+      { "icon": "users", "title": "Owners, not ticket-takers", "text": "Every CSM owns a book of business and the outcome that comes with it." },
+      { "icon": "handshake", "title": "One team with Sales", "text": "Shared accounts, shared forecasts and no hand-off cliff after the contract is signed." }
+    ]
+  },
+  "work": {
+    "lede": "Three projects, each showing a different side of how I work. Keep scrolling, they stack.",
+    "cases": [
+      {
+        "icon": "rocket",
+        "where": "As Head of Customer Success, Northwind, 2022 to present",
+        "title": "Rebuilding onboarding from scratch",
+        "problem": "New customers took two months to see value, and a third of first-year churn started in onboarding.",
+        "action": "Redesigned onboarding into a 21-day guided programme with milestones, in-app checklists and a dedicated launch CSM.",
+        "result": "Time-to-value fell from 60 to 21 days and first-year churn dropped by a quarter."
+      },
+      {
+        "icon": "sliders",
+        "where": "As CS Operations Lead, Northwind, 2020 to 2022",
+        "title": "A health score that actually predicts churn",
+        "problem": "The team found out about churn at renewal time, when it was too late.",
+        "action": "Built a health score from product usage, support volume and sentiment, and a weekly risk review around it.",
+        "result": "At-risk accounts flagged an average of 90 days earlier; save rate on flagged accounts doubled."
+      },
+      {
+        "icon": "users",
+        "where": "As Team Lead, Brightline, 2016 to 2020",
+        "title": "Scaling the team without losing the culture",
+        "problem": "Rapid hiring was diluting quality and new CSMs took months to ramp.",
+        "action": "Created a CSM career path, a four-week ramp programme and peer coaching circles.",
+        "result": "Ramp time halved and team engagement stayed above 85% through 3x growth."
+      }
+    ]
+  },
+  "career": {
+    "kicker": "2014 to today",
+    "title": "From the support queue to head of CS",
+    "lede": "Support, onboarding, account management and leadership across three companies. Open any role for the detail.",
+    "roles": [
+      {
+        "id": "northwind-head",
+        "badge": "NW",
+        "current": true,
+        "title": "Head of Customer Success",
+        "company": "Northwind Software",
+        "years": "2022 to present",
+        "summary": "Leading a 30-person customer success organisation across onboarding, account management and CS operations.",
+        "highlights": [
+          "Grew net revenue retention from 104% to 118% in two years.",
+          "Redesigned onboarding, cutting time-to-value from 60 to 21 days.",
+          "Built the CS career path and promoted six people into team-lead roles."
+        ],
+        "tags": ["Leadership", "Onboarding", "Retention"]
+      },
+      {
+        "id": "northwind-ops",
+        "badge": "NW",
+        "title": "CS Operations Lead",
+        "company": "Northwind Software",
+        "years": "2020 to 2022",
+        "summary": "Set up CS operations: tooling, health scoring and reporting.",
+        "highlights": [
+          "Built the customer health score and weekly risk review.",
+          "Migrated the team to a single CS platform and automated renewal workflows."
+        ],
+        "tags": ["Operations", "Data", "Tooling"]
+      },
+      {
+        "id": "brightline",
+        "badge": "BL",
+        "title": "Customer Success Team Lead",
+        "company": "Brightline",
+        "years": "2016 to 2020",
+        "summary": "Led a team of CSMs managing mid-market accounts.",
+        "highlights": [
+          "Scaled the team from 4 to 12 CSMs while keeping engagement above 85%.",
+          "Created the four-week CSM ramp programme."
+        ],
+        "tags": ["Coaching", "Team building"]
+      },
+      {
+        "id": "brightline-support",
+        "badge": "BL",
+        "title": "Support Specialist",
+        "company": "Brightline",
+        "years": "2014 to 2016",
+        "growth": "Support to team lead in two years",
+        "summary": "Where it started: frontline technical support for SMB customers.",
+        "highlights": [
+          "Top CSAT on the team for six consecutive quarters.",
+          "Wrote the first internal knowledge base for the support team."
+        ],
+        "tags": ["Support", "Knowledge base"]
+      }
+    ]
+  },
+  "skills": [
+    {
+      "cluster": "Customer success",
+      "icon": "handshake",
+      "items": [
+        { "name": "Onboarding design", "roles": ["northwind-head", "brightline"] },
+        { "name": "Renewals and expansion", "roles": ["northwind-head", "brightline"] },
+        { "name": "Customer health scoring", "roles": ["northwind-ops", "northwind-head"] }
+      ]
+    },
+    {
+      "cluster": "Operations and data",
+      "icon": "sliders",
+      "items": [
+        { "name": "CS tooling and automation", "roles": ["northwind-ops"] },
+        { "name": "Reporting and forecasting", "roles": ["northwind-ops", "northwind-head"] },
+        { "name": "Knowledge management", "roles": ["brightline-support", "northwind-ops"] }
+      ]
+    },
+    {
+      "cluster": "Leadership",
+      "icon": "users",
+      "items": [
+        { "name": "Team building and engagement", "roles": ["northwind-head", "brightline"] },
+        { "name": "Coaching and career paths", "roles": ["northwind-head", "brightline"] }
+      ]
+    }
+  ],
+  "toolkit": {
+    "title": "Tools I work in",
+    "tools": [
+      { "name": "Gainsight", "icon": "layers" },
+      { "name": "Salesforce", "icon": "layers" },
+      { "name": "HubSpot", "icon": "layers" },
+      { "name": "Looker", "icon": "sliders" },
+      { "name": "Zendesk", "icon": "book" },
+      { "name": "Notion", "icon": "book" }
+    ],
+    "credentials": [
+      { "icon": "award", "title": "Certified Customer Success Manager", "detail": "Certification" },
+      { "icon": "cap", "title": "BBA, Marketing", "detail": "Example University, 2014" }
+    ]
+  },
+  "contactSection": {
+    "title": "Let's talk about customers who stay.",
+    "lede": "Open to conversations about customer success leadership, onboarding and retention."
+  }
+}

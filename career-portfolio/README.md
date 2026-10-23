@@ -15,13 +15,18 @@ What the site includes:
 The whole site is one HTML file with the photo embedded, so it can be hosted
 anywhere.
 
-## Install
+## Install it
 
-**Claude (web or desktop):** download this repository as a ZIP (or zip the
-`career-portfolio` folder), then upload it in the Skills section of Claude's
-settings.
+**Claude (web or desktop app)**
+1. [Download career-portfolio.zip](https://github.com/iamsachinraj/Claude-Skills/raw/main/career-portfolio.zip). Don't unzip it.
+2. In Claude, open Settings and find the Skills section.
+3. Upload the zip.
 
-**Claude Code:** copy the `career-portfolio` folder into `~/.claude/skills/`.
+Custom skills need code execution turned on in Claude's settings, and a plan that supports custom skills.
+
+**Claude Code**
+1. [Download career-portfolio.zip](https://github.com/iamsachinraj/Claude-Skills/raw/main/career-portfolio.zip) and unzip it.
+2. Copy the `career-portfolio` folder into `~/.claude/skills/`.
 
 ## Use
 
